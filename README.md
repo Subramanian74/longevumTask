@@ -14,10 +14,10 @@ The files within thie repo that have been changed:
 
 # Sources used
 - Environment setup
-https://marionettejs.com/docs/master/installation.html
-https://github.com/marionettejs/backbone.marionette/blob/master/
-https://github.com/marionettejs/marionette-integrations/tree/master/webpack
-https://marionettejs.com/docs/v3.5.1/basics.html
+- https://marionettejs.com/docs/master/installation.html
+- https://github.com/marionettejs/backbone.marionette/blob/master/
+- https://github.com/marionettejs/marionette-integrations/tree/master/webpack
+- https://marionettejs.com/docs/v3.5.1/basics.html
 
 - Datepicker
-https://jqueryui.com/datepicker/
+- https://jqueryui.com/datepicker/
