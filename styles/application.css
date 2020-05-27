@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+  font-family: -apple-system, system, sans-serif;
+}
+
+#content {
+  width: 480px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-bottom: 0.5em;
+  font-size: 5em;
+}
+
+a {
+  color: #006a86;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0);
+}
+
+a:hover {
+  color: #006a86;
+  border-bottom: 1px solid #006a86;
+}
+
+#header {
+  width: 100%;
+  display: inline-block;
+  position: relative;
+}
+
+#total {
+  display: inline;
+}
+
+#form-table {
+  text-align: left;
+}
+
+button {
+  width: 80px;
+  height: 25px;
+  font-weight: bold;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input {
+  height: 25px;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+#data-table {
+  margin-top: 15%;
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+
+#data-table th {
+  background: lightgray;
+  padding: 10px;
+  height: 35px;
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+
+#data-table td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px;
+}
+
+.delete-link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
